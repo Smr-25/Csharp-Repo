@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pa201Lab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4065cda67750b89a18eee594d8fa8c1f40aac7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pa201Lab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pa201Lab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
