@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Pa201Lab/1.0.0": {
+      "ConsoleApp3/1.0.0": {
         "runtime": {
-          "Pa201Lab.dll": {}
+          "ConsoleApp3.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Pa201Lab/1.0.0": {
+    "ConsoleApp3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
