@@ -105,16 +105,16 @@ for (int i = 2; i < n1; i++)
 Console.WriteLine();
 Console.WriteLine(num2);
 
-int num1 = Convert.ToInt32(Console.ReadLine());
+int number1 = Convert.ToInt32(Console.ReadLine());
 
-if (num1 == 1)
+if (number1 == 1)
 {
     Console.WriteLine("Ne sade ne murekkeb eded");
     return;
 }
 for (int i = 2; i <= Convert.ToInt32(Math.Sqrt(num1)); i++)
 {
-    if (num1 % i == 0)
+    if (number1 % i == 0)
     {
         Console.WriteLine("Murrekkeb eded");
         return;
