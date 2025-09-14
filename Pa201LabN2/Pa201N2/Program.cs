@@ -105,7 +105,7 @@ for (int i = 2; i < n1; i++)
 Console.WriteLine();
 Console.WriteLine(num2);
 
-int number1 = Convert.ToInt32(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 
 if (num1 == 1)
 {
