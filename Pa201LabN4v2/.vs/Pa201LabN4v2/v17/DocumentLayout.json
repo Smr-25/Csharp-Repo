@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|c:\\users\\samiraa\\desktop\\lab\\pa201labn4v2\\pa201labn4v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|solutionrelative:pa201labn4v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|c:\\users\\samiraa\\desktop\\lab\\pa201labn4v2\\pa201labn4v2\\fries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|solutionrelative:pa201labn4v2\\fries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|c:\\users\\samiraa\\desktop\\lab\\pa201labn4v2\\pa201labn4v2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|solutionrelative:pa201labn4v2\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|c:\\users\\samiraa\\desktop\\lab\\pa201labn4v2\\pa201labn4v2\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363516DD-CA36-4E6E-B71B-EB803D31F0B5}|Pa201LabN4v2\\Pa201LabN4v2.csproj|solutionrelative:pa201labn4v2\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Program.cs",
+              "RelativeDocumentMoniker": "Pa201LabN4v2\\Program.cs",
+              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Program.cs",
+              "RelativeToolTip": "Pa201LabN4v2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:43:21.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Food.cs",
+              "RelativeDocumentMoniker": "Pa201LabN4v2\\Food.cs",
+              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Food.cs",
+              "RelativeToolTip": "Pa201LabN4v2\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:43:57.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fries.cs",
+              "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Fries.cs",
+              "RelativeDocumentMoniker": "Pa201LabN4v2\\Fries.cs",
+              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Fries.cs",
+              "RelativeToolTip": "Pa201LabN4v2\\Fries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:51:36.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Pizza.cs",
+              "RelativeDocumentMoniker": "Pa201LabN4v2\\Pizza.cs",
+              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\Pa201LabN4v2\\Pa201LabN4v2\\Pizza.cs",
+              "RelativeToolTip": "Pa201LabN4v2\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAC8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:51:28.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
