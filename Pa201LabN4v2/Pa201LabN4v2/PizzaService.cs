@@ -8,7 +8,7 @@ namespace Pa201LabN4v2
         
         public Pizza AddPizza(string name,int radius,double calory,TimeSpan prepareTime,DateTime created)
         {
-            Pizza pizza = new Pizza
+            Pizza pizza = new ()
             {
                 FoodName = name,
                 Radius = radius,
@@ -21,16 +21,7 @@ namespace Pa201LabN4v2
 
         public Pizza BigRadiusPizza(List<Pizza> pizzas)
         {
-            foreach (var item in pizzas)
-            {
-                if(item.Radius > max)
-                {
-                    max = item.Radius;
-                    bigPizza = item;
-                }
-            }
-
-            return bigPizza;
+             return pizzas.MaxBy(p => p.Radius); 
         }
     }
 }

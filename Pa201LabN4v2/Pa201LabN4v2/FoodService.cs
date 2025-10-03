@@ -5,16 +5,7 @@ namespace Pa201LabN4v2
     {
         public int CountOfCalory(List<Food> foods, int n)
         {
-            int count = 0;
-            foreach (var item in foods)
-            {
-                if (item.CaloryValue > n)
-                {
-                    count++;
-                }
-            }
-
-            return count;
+            return foods.FindAll(x => x.CaloryValue > n).Count();
         }
 
         public DateTime WhenWillPrepared(Food food)
