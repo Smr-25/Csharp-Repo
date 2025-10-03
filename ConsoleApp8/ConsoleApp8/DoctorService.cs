@@ -43,14 +43,14 @@ namespace ConsoleApp8
 
 
         public void SearchByFullName(Doctor[] doctorArray ,string searchingText)
-        {
+        {           
             foreach (var doctor in doctorArray)
             {
                 if (doctor.FullName.Contains(searchingText.Trim(), StringComparison.OrdinalIgnoreCase))
                 {
-
                     Console.WriteLine($"FullName: {doctor.FullName}, Age: {doctor.Age}, Email: {doctor.Email}, Address: {doctor.Address}");
                 }
+               
             }
         }
 
@@ -68,9 +68,9 @@ namespace ConsoleApp8
             return doctorArray;
         }
 
-        public double GetAvarageByAge(Doctor[] doctorArray)
+        public int GetAvarageByAge(Doctor[] doctorArray)
         {
-            double result = 0;
+            int result = 0;
             foreach(var doctor in doctorArray)
             {
                 result += doctor.Age;
