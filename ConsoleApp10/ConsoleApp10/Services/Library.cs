@@ -21,13 +21,13 @@ namespace ConsoleApp10.Library
         public void AddBook(Book book)
         {
 
-            if (Books.Count > BookLimit)
+            if (Books.Count == BookLimit)
                 throw new CapacityLimitException("Library is full");
 
             Books.Add(book);
             Console.WriteLine(Books.Count);
             book.Count++;
-            Console.WriteLine("Ok");
+            Console.WriteLine("Book Added");
         }
 
         public Book GetBookById(int? id)
