@@ -8,7 +8,7 @@ namespace ConsoleApp10.Exceptions
 {
     internal class NotFoundException : Exception
     {
-        public NotFoundException(string message) : base(message) { s}
+        public NotFoundException(string message) : base(message) { }
       
     }
 }
