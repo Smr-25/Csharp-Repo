@@ -27,7 +27,7 @@ namespace ConsoleApp10.Models
 
         public override void ShowInfo()
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"{Id} {Name} {AuthorName} {PageCount}");
         }
 
         public override void Sell()
