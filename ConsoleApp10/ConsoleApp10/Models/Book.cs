@@ -9,6 +9,7 @@ namespace ConsoleApp10.Models
 {
     internal class Book : Product
     {
+        public int Id { get; }
         private int _id;
         public Book(string name,int price,string authorName, int pageCount)
         {
