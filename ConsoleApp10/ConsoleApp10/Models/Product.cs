@@ -8,7 +8,7 @@ namespace ConsoleApp10.Models
 {
     internal abstract class Product
     {
-        public int Id { get; set; }
+        public int Id { get; }
         public string Name { get; set; }
 
         public int Price { get; set; }
