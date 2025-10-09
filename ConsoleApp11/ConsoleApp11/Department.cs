@@ -20,8 +20,8 @@ namespace ConsoleApp11
             Employee employee = new Employee(name, salary);
 
             Employees.Add(employee);
-            using FileStream stream = new(path, FileMode.Append);
-            using StreamWriter streamWriter = new StreamWriter(stream);
+            using FileStream fileStream = new(path, FileMode.Create);
+            using StreamWriter streamWriter = new StreamWriter(fileStream);
 
             string datas = JsonSerializer.Serialize(Employees);
             streamWriter.Write(datas);
@@ -29,11 +29,27 @@ namespace ConsoleApp11
 
         public void GetEmployeeById()
         {
+            Console.WriteLine("Input id");
+            int id = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
+            using FileStream fileStream = new(path, FileMode.Open);
+            using StreamReader streamReader = new StreamReader(fileStream);
+            string result = streamReader.ReadToEnd();
 
+            Employees = JsonSerializer.Deserialize<List<Employee>>(result);
+
+            return Employees.FirstOrDefault(e => e.Id == id) ?? throw new NullReferenceException("Data notfound");
         }
 
         public void RemoveEmployee()
         {
+            Employee employee =  GetEmployeeById();
+            Employees.Remove(employee);
+            using FileStream fileStream = new(path, FileMode.Create);
+            using StreamWriter streamWriter = new StreamWriter(fileStream);
+            
+            string datas = JsonSerializer.Serialize(Employees);
+            streamWriter.Write(datas);
 
         }
     }
