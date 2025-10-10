@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 0,
+        "Balans": 10000,
+        "Bonus": 1000,
+        "Bank": 1,
+        "CardNumber": "1234567812345678
+        "}, {
+        " Id": 0,
+        "Balans": 0,
+        "Bonus": 10,
+        "Bank": 3,
+        "CardNumber": "1234567812345678"
+    },
+    {
+        "Id": 0,
+        "Balans": 1000,
+        "Bonus": 100,
+        "Bank": 2,
+        "CardNumber": "1234567812345678"
+    },
+    {
+        "Id": 0,
+        "Balans": 5000,
+        "Bonus": 500,
+        "Bank": 1,
+        "CardNumber": "1234567812345678"
+    }
+
+]
