@@ -27,7 +27,7 @@ namespace ConsoleApp11
             streamWriter.Write(datas);
         }
 
-        public void GetEmployeeById()
+        public Employee GetEmployeeById()
         {
             Console.WriteLine("Input id");
             int id = Convert.ToInt32(Console.ReadLine());
