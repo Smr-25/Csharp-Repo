@@ -2,10 +2,11 @@
 {
     internal class Employee
     {
-       
-        public Employee( string name, int salary)
+        private static int _id;
+        public Employee(string name, int salary)
         {
-            Id ++;
+            _id++;
+            Id = _id;
             Name = name;
             Salary = salary;
         }
