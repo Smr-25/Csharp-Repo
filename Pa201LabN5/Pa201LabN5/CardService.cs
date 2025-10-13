@@ -17,7 +17,7 @@ namespace Pa201LabN5
         {
             GetCards();
             //Console.WriteLine("Please enter car");
-            Card card = new(Bank.Kapital,"1234567812345678",5000, 500);
+            Card card = new(Bank.Kapital,"1234567812345678",10000, 500);
             if (Cards.Any(c => c.Equals(card)))
                 throw new ConflictException("This card already exits");
             

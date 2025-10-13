@@ -1,4 +1,5 @@
-﻿using Pa201LabN5.Enums;
+﻿using Pa201LabN5.Data;
+using Pa201LabN5.Enums;
 
 namespace Pa201LabN5
 {
@@ -51,6 +52,8 @@ namespace Pa201LabN5
 
         public bool WithDraw(double withDrawAmount)
         {
+           
+            
             if (withDrawAmount <= Balans)
             {
                 Balans -= withDrawAmount;

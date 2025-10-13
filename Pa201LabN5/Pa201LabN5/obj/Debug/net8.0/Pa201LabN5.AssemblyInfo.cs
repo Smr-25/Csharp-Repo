@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pa201LabN5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec8542c3590031da6d39f60d38ac0acbfbdb83e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efc3b30842118bb4e4dcd8b3a302586245309e7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pa201LabN5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pa201LabN5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
