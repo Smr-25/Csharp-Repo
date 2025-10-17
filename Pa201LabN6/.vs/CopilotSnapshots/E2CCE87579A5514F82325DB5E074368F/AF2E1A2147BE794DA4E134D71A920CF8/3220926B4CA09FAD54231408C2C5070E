@@ -1,0 +1,11 @@
+﻿using System.Collections.Generic;
+
+namespace Pa201LabN6
+{
+    internal interface ICargoService
+    {
+        IList<Customer> Customers { get; }
+        IList<Courier> Couriers { get; }
+        IList<CargoOrder> CargoOrders { get; }
+    }
+}

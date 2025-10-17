@@ -1,0 +1,15 @@
+﻿using System.Collections.Generic;
+
+namespace Pa201LabN6
+{
+    internal interface ICargoService
+    {
+        List<Customer> Customers { get; set; }
+        List<Courier> Couriers { get; set; }
+        List<CargoOrder> CargoOrders { get; set; }
+
+        void AddCustomer(Customer customer);
+        void AddCourier(Courier courier);
+        CargoOrder CreateOrder(int customerId, decimal totalAmount);
+    }
+}
