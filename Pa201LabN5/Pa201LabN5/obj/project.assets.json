@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {
+      "MorseCodePackage/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/MorseCodePackage.dll": {}
+        },
+        "runtime": {
+          "lib/net9.0/MorseCodePackage.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MorseCodePackage/1.0.0": {
+      "sha512": "sQpp2BbkTsJtsDzdcMgjliM2foJystt/Q2p7N5XEIaoLGclXpjoFL9wjvbkfvjgn+Jm2JfeXXZyIUm+qgWuYoA==",
+      "type": "package",
+      "path": "morsecodepackage/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net9.0/MorseCodePackage.dll",
+        "morsecodepackage.1.0.0.nupkg.sha512",
+        "morsecodepackage.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": [
+      "MorseCodePackage >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\samiraa\\.nuget\\packages\\": {},
@@ -29,7 +54,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -37,8 +62,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -55,8 +80,14 @@
       "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "MorseCodePackage": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

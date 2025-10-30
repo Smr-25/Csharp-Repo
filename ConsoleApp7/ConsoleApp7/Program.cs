@@ -16,4 +16,3 @@
 }
 
 Console.WriteLine(DomainReturn("test@code.edu.az"));
-

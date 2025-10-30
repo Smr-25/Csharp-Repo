@@ -7,28 +7,28 @@
       "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\exceptions\\productcountiszeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\exceptions\\productcountiszeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\exceptions\\productcountiszeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\exceptions\\productcountiszeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\exceptions\\capacitylimitexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp10\\consoleapp10\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42D0DFCF-4713-42BC-A48B-23ECCC17A442}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\services\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Services\\Library.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Services\\Library.cs",
@@ -59,33 +59,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CapacityLimitException.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Exceptions\\CapacityLimitException.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Exceptions\\CapacityLimitException.cs",
               "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Exceptions\\CapacityLimitException.cs",
               "RelativeToolTip": "ConsoleApp10\\Exceptions\\CapacityLimitException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T13:18:34.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Exceptions\\NotFoundException.cs",
               "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Exceptions\\NotFoundException.cs",
               "RelativeToolTip": "ConsoleApp10\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T13:17:50.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ProductCountIsZeroException.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Exceptions\\ProductCountIsZeroException.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Exceptions\\ProductCountIsZeroException.cs",
@@ -98,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Models\\Book.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Models\\Book.cs",
@@ -111,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Models\\Product.cs",
@@ -128,9 +128,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
-              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp10\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T13:02:12.426Z",
               "EditorCaption": ""
