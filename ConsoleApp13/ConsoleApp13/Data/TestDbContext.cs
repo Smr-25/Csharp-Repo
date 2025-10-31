@@ -18,7 +18,7 @@ public class TestDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-      optionsBuilder.UseSqlServer("Server=MOON01\\SQLEXPRESS;Database=TestDb;Trusted_Connection=True;TrustServerCertificate=True");
+      optionsBuilder.UseSqlServer("Server=MOON01\\SQLEXPRESS;Database=TicketSystemDb;Trusted_Connection=True;TrustServerCertificate=True");
 
     }
 }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp13\\consoleapp13\\data\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\data\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp13\\consoleapp13\\consoleapp13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\consoleapp13.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp13\\consoleapp13\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp13\\consoleapp13\\models\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\models\\studentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp13\\consoleapp13\\data\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|solutionrelative:consoleapp13\\data\\testdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEF6FCF0-CA19-4A10-AD87-6B8968D942E3}|ConsoleApp13\\ConsoleApp13.csproj|c:\\users\\samiraa\\desktop\\lab\\consoleapp13\\consoleapp13\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ConsoleApp13.csproj",
+              "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\ConsoleApp13.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp13\\ConsoleApp13.csproj",
+              "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\ConsoleApp13.csproj",
+              "RelativeToolTip": "ConsoleApp13\\ConsoleApp13.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T10:08:23.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "StudentDetail.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Models\\StudentDetail.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Models\\StudentDetail.cs",
@@ -54,12 +71,11 @@
               "RelativeToolTip": "ConsoleApp13\\Models\\StudentDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T11:39:26.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T11:39:26.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StudentSubject.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Models\\StudentSubject.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Models\\StudentSubject.cs",
@@ -67,25 +83,23 @@
               "RelativeToolTip": "ConsoleApp13\\Models\\StudentSubject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T11:27:16.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T11:27:16.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Models\\Student.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Models\\Student.cs",
               "RelativeToolTip": "ConsoleApp13\\Models\\Student.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBAAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:40:16.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T10:40:16.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Models\\Subject.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Models\\Subject.cs",
@@ -93,12 +107,11 @@
               "RelativeToolTip": "ConsoleApp13\\Models\\Subject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T11:20:10.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T11:20:10.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Group.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Models\\Group.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Models\\Group.cs",
@@ -106,25 +119,24 @@
               "RelativeToolTip": "ConsoleApp13\\Models\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:07:57.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T10:07:57.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "TestDbContext.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Data\\TestDbContext.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Data\\TestDbContext.cs",
               "ToolTip": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Data\\TestDbContext.cs",
               "RelativeToolTip": "ConsoleApp13\\Data\\TestDbContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T10:05:44.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\samiraa\\Desktop\\Lab\\ConsoleApp13\\ConsoleApp13\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp13\\Program.cs",
@@ -132,8 +144,7 @@
               "RelativeToolTip": "ConsoleApp13\\Program.cs",
               "ViewState": "AgIAAFQAAAAAAAAAAAApwGgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T10:02:37.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T10:02:37.093Z"
             }
           ]
         }

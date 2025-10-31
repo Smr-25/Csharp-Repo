@@ -1,0 +1,10 @@
+﻿namespace Pa201LabN7.Services
+{
+    public class EventService
+    {
+        public void GetAddEventAsync()
+        {
+
+        }
+    }
+}
